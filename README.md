@@ -6,3 +6,10 @@ Author - Akshat Patel (Future University)
 course - B.Tech CSE (AI&ML)
 <br>
 Seven Mambers in my team
+1. Akshat Patel (Author)
+2.
+3.
+4.
+5.
+6.
+7.
