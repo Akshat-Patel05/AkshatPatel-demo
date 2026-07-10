@@ -8,7 +8,7 @@ course - B.Tech CSE (AI&ML)
 Seven Mambers in my team
 1. Akshat Patel (Author)
 2. Aadesh Verma
-3.
+3. Kashif Ansari
 4.
 5.
 6.
